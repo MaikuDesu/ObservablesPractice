@@ -1,4 +1,4 @@
-# MyFirstApp
+# This is just a practice for Observables in Ng
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
